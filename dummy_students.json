@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": "S001",
+    "name": "Ali Ahmed",
+    "email": "ali@example.com",
+    "age": 21,
+    "department": "Software Engineering",
+    "semester": 6,
+    "cgpa": 3.45,
+    "is_enrolled": true
+  },
+  {
+    "id": "S002",
+    "name": "Sara Khan",
+    "email": "sara@example.com",
+    "age": 22,
+    "department": "Computer Science",
+    "semester": 8,
+    "cgpa": 3.82,
+    "is_enrolled": true
+  },
+  {
+    "id": "S003",
+    "name": "Usman Tariq",
+    "email": "usman@example.com",
+    "age": 20,
+    "department": "Software Engineering",
+    "semester": 4,
+    "cgpa": 2.95,
+    "is_enrolled": true
+  },
+  {
+    "id": "S004",
+    "name": "Ayesha Malik",
+    "email": "ayesha@example.com",
+    "age": 23,
+    "department": "Artificial Intelligence",
+    "semester": 8,
+    "cgpa": 3.91,
+    "is_enrolled": true
+  },
+  {
+    "id": "S005",
+    "name": "Hamza Iqbal",
+    "email": "hamza@example.com",
+    "age": 21,
+    "department": "Computer Science",
+    "semester": 5,
+    "cgpa": 3.12,
+    "is_enrolled": false
+  },
+  {
+    "id": "S006",
+    "name": "Fatima Noor",
+    "email": "fatima@example.com",
+    "age": 22,
+    "department": "Data Science",
+    "semester": 7,
+    "cgpa": 3.67,
+    "is_enrolled": true
+  },
+  {
+    "id": "S007",
+    "name": "Bilal Hussain",
+    "email": "bilal@example.com",
+    "age": 19,
+    "department": "Artificial Intelligence",
+    "semester": 2,
+    "cgpa": 2.78,
+    "is_enrolled": true
+  },
+  {
+    "id": "S008",
+    "name": "Zainab Shah",
+    "email": "zainab@example.com",
+    "age": 20,
+    "department": "Data Science",
+    "semester": 3,
+    "cgpa": 3.55,
+    "is_enrolled": true
+  },
+  {
+    "id": "S009",
+    "name": "Ahmed Raza",
+    "email": "ahmed@example.com",
+    "age": 24,
+    "department": "Software Engineering",
+    "semester": 8,
+    "cgpa": 3.28,
+    "is_enrolled": false
+  },
+  {
+    "id": "S010",
+    "name": "Maryam Asif",
+    "email": "maryam@example.com",
+    "age": 21,
+    "department": "Computer Science",
+    "semester": 6,
+    "cgpa": 3.74,
+    "is_enrolled": true
+  }
+]
